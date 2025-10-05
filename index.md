@@ -4,4 +4,4 @@ Hi my name is <ins> Rommel</ins> and **I am a 4th Year _Computer Engineering_ st
 
 Here is a list of all the work I've done in ths class:
 
-- [Peer-graded Assignment: Show What You Know: Explain Your Program Week 1 Seq Pt 1](https://youtu.be/XS5PVSVuHzE)
+- [Peer-graded Assignment: Show What You Know: Explain Your Program Week 1 Seq Pt 1](https://youtu.be/ujjocBd4l4g)
