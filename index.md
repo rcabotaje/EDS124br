@@ -6,3 +6,4 @@ Here is a list of all the work I've done in ths class:
 
 - [Peer-graded Assignment: Show What You Know: Explain Your Program Week 1 Seq Pt 1](https://youtu.be/ujjocBd4l4g)
 - [Peer-graded Assignment: Show What You Know: Write and Explain A Program Week 2 Repeats Pt 1](https://youtu.be/DEdVWunhPbs)
+- [Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan Week 2 Repeats Pt 2](https://youtu.be/L5PO-l-ng-g)
