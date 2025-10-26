@@ -9,3 +9,4 @@ Here is a list of all the work I've done in ths class:
 - [Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan Week 2 Repeats Pt 2](https://youtu.be/L5PO-l-ng-g)
 - [Peer-graded Assignment: Show What You Know: Write and Explain A Program Week 3 Mouse Octagon](https://youtu.be/jN9FQRU8Ghs)
 - [Peer-graded Assignment: Show What You Know: Write and Explain A Program Week 3 Monkey Banana Fall](https://youtu.be/TkcaStUuJoc)
+- [Peer-graded Assignment: Show What You Know: Write and Explain A Program Week 4, 3 Shapes ft. Variables](https://youtu.be/UEy1s3ZEVZE)
