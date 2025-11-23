@@ -13,3 +13,4 @@ Here is a list of all the work I've done in ths class:
 - [Peer-graded Assignment: Show What You Know: Write and Explain A Program Week 5, Ball Bounce](https://youtu.be/yoCNKXwQQGc)
 - [Peer-graded Assignment: Show What You Known: Write and Explain A Program Week 6 Ball Target If Statement](https://youtu.be/PsjLoLqQ_Kw)
 - [Peer-graded Assignment: Show What You Known: Write and Explain A Program Week 7 Nested If/Else](https://youtu.be/Xpkecl9I-Nk)
+- [Peer-graded Assignment: Show What You Know: Write and Explain A Program Week 8 Compound Conditional](https://youtu.be/6AjVxOlyxFw)
