@@ -15,3 +15,4 @@ Here is a list of all the work I've done in ths class:
 - [Peer-graded Assignment: Show What You Known: Write and Explain A Program Week 7 Nested If/Else](https://youtu.be/Xpkecl9I-Nk)
 - [Peer-graded Assignment: Show What You Know: Write and Explain A Program Week 8 Compound Conditional](https://youtu.be/6AjVxOlyxFw)
 - [Peer-graded Assignment: Show What You Know: Write and Explain A Program Week 9 Abstraction](https://youtu.be/WihUH-pHDAk)
+- [Peer-graded Assignment: Show What You Know: Write and Explain A Program Week 10 Lists](https://youtu.be/3oSPG3FFFzY)
